@@ -7,6 +7,10 @@ This is a FrontEnd webpage developed using ReactJS and CSS, which reads data fro
 - Install all required dependencies by typing the command - <code>yarn</code>.
 - Now a <em><strong>node_modules</strong></em> folder will be generated, proceed after that file is built.
 
+
+
+
+
 # Running the Project
 
 - In the IDE's Terminal, type the command - <code>yarn start</code>, to start the server.
@@ -17,7 +21,8 @@ This is a FrontEnd webpage developed using ReactJS and CSS, which reads data fro
 
 <br>
 
-https://github.com/jubinjacob03/Pisense-Frontend_ReactJS_ApexCharts/assets/118928433/16505fe7-c74c-4315-9f92-c79cc5e7fed9
+https://github.com/jubinjacob03/Pisense-Frontend_ReactJS_ApexCharts/assets/118928433/b216a5db-ca3e-44c0-ad4c-35c81ccad331
+
 
 # References
 - Apex Charts - [installation](https://apexcharts.com/docs/installation/) , different types of [charts](https://apexcharts.com/react-chart-demos/) available in Apex Charts for React.
