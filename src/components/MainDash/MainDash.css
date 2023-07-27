@@ -1,0 +1,14 @@
+.MainDash{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-content: center;
+    padding: 1rem;
+}
+
+.Main{
+    padding-left: 10%;
+}
+.greet{
+    margin-left: 40%!important;
+}
